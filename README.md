@@ -1,2 +1,3 @@
 # FileStorage
-This repository contains large files for other projects, such as images used in hosted documentation.
+
+This repository contains large files for my other projects, such as images used in hosted documentation.
